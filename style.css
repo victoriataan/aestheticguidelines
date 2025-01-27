@@ -1,0 +1,172 @@
+body {
+    background-image: url('assets/zbackground.png')
+}
+
+.pretty{
+    font-family: Courier, monospace;	
+}
+
+li{
+    font-family: Didot, serif;	
+}
+
+
+
+p{
+    font-family: Didot, serif;
+}
+
+.box {
+    background-color: white;
+    border: 2px solid black;
+    outline-style: outset;
+    outline-color: blueviolet;
+    margin-left: 440px;
+    margin-right: 430px;
+    margin-bottom: 20px;
+    margin-top: 36px;
+}
+
+h1 {
+margin-left: 110px;
+}
+
+.aboutbox {
+    background-color: white;
+    border: 2px solid black;
+    outline-style: outset;
+    outline-color: blueviolet;
+    margin-top: 20px;
+    margin-left: 350px;
+    margin-right: 360px;
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 70px;
+    display: flex; 
+    align-items: center;
+    font-size: 17px;
+
+
+}
+
+.boxy {
+    background-color: white;
+    border: 2px solid black;
+    outline-style: outset;
+    outline-color: blueviolet;
+    margin-top: 20px;
+    margin-left: 350px;
+    margin-right: 360px;
+    margin-bottom: 40px;
+    font-size: 17px;
+ 
+}
+
+.image {
+    border: 2px solid black;
+    outline-style: outset;
+    outline-color: rgb(0, 0, 0);
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.guides {
+    background-color: white;
+    border: 2px solid black;
+    outline-style: outset;
+    outline-color: blueviolet;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 350px;
+    margin-right: 360px;
+    padding-left: 20px;
+    display: flex; 
+    align-items: center;
+    font-size: 17px;
+
+}
+
+
+.moreinspo {
+    background-color: rgb(188, 206, 246);
+    border: 2px solid black;
+    outline-style: outset;
+    outline-color: blueviolet;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 280px;
+    margin-right: 280px;
+
+    display: flex; 
+    align-items: center;
+    font-size: 17px;
+
+}
+
+.styleimage {
+    border: 2px solid black;
+    outline-style: outset;
+    outline-color: rgb(0, 0, 0);
+    margin-right: 50px;
+
+}
+
+.morebox {
+    background-color: white;
+    border: 2px solid black;
+    outline-style: outset;
+    outline-color: blueviolet;
+    margin-top: 20px;
+    margin-left: 350px;
+    margin-right: 360px;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 70px;
+
+}
+
+.dividers {
+    width: 690px;
+    height: 3px;
+    background-color: rgb(24, 141, 133);
+
+}
+
+.stylediv {
+    width: 690px;
+    
+    height: 3px;
+    background-color: rgb(24, 141, 133);
+
+}
+
+
+/* idk what's happening*/
+
+.specialul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #aa20bf;
+    margin-bottom: 15px;
+  }
+  
+  .specialli {
+    float: none;
+  }
+  
+  .specialli a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .specialli a:hover {
+    background-color: #000000;
+  }
